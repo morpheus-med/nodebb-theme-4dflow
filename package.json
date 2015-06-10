@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-4dflow",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Theme for the 4dflow forum",
   "main": "less/theme.less",
   "keywords": [
