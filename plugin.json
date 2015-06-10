@@ -1,0 +1,16 @@
+{
+	"id": "nodebb-theme-4dflow",
+	"library": "./lib/theme.js",
+	"hooks": [
+		{
+			"hook": "filter:widgets.getAreas", "method": "defineWidgetAreas", "callbacked": true
+		}
+	],
+    "less": "theme.less",
+	"scripts": [
+		"lib/client.js"
+	],
+    "staticDirs": {
+        "images": "assets/images"
+    }
+}

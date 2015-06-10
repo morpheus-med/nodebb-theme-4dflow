@@ -1,0 +1,10 @@
+{
+  "name": "nodebb-theme-4dflow",
+  "version": "0.0.1",
+  "description": "Theme for the 4dflow forum",
+  "main": "less/theme.less",
+  "keywords": [
+
+  ],
+  "license": "MIT"
+}

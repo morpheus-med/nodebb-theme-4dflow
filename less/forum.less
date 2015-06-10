@@ -1,0 +1,24 @@
+a {
+    color: @highlight-color;
+}
+
+.category-title a {
+    color: @content-font-color;
+    font-weight: normal;
+}
+
+.breadcrumb {
+    margin: @box-margin 0;
+    padding: 0;
+    background-color: @page-background-color;
+}
+
+.forum #content {
+    max-width: @page-width;
+    & > * {
+        padding: @box-margin;        
+    }
+    & > .categories {
+        padding: 0;
+    }
+}

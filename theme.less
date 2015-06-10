@@ -1,0 +1,53 @@
+@import "../nodebb-theme-vanilla/theme";
+@import "./less/mixins";
+@import "./less/forum";
+@import "./less/header";
+@import "./less/components";
+
+@box-margin: 15px;
+@button-height: 52px;
+
+@main-title-color: rgb(46,65,102);
+@forum-title-color: rgb(108,108,108);
+
+@page-background-color: rgb(255,255,255);
+
+@highlight-color: rgb(76,217,170);
+@highlight-font-color: rgb(255,255,255);
+@content-font-color: rgb(0,0,0);
+
+@page-width: 978px + (@box-margin * 2);
+@narrow-width: 638px + (@box-margin * 2);
+
+@separator-color: rgb(217,217,217);
+@separator-content-color: rgb(153,153,153);
+
+body {
+    font-family: 'Arimo', sans-serif;
+}
+
+.container {
+    max-width: @page-width;
+    padding: 0;
+}
+
+a:focus {
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: 0;
+    &, &:focus {
+           box-shadow: none;
+           color: @content-font-color;
+       }
+    &.btn-primary {
+        color: @highlight-font-color;
+        background-color: @highlight-color;
+        border-color: @highlight-color;
+        &:focus {
+            border-color: @highlight-color;
+        }
+    }
+}
+
