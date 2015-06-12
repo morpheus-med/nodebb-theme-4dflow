@@ -1,5 +1,9 @@
+#content .section {
+    padding-top: 0;
+}
 .section {
     .clearfix();
+    padding: @box-margin 0;
     &.narrow {
         max-width: @narrow-width;
         margin-left: auto;
@@ -16,6 +20,12 @@ h1, h2, h3, h4, h5, h6 {
 p {
     margin-top: @box-margin;
     margin-bottom: @box-margin;
+
+    color: @content-font-color;
+    &.highlight {
+        font-weight: bold;
+        color: @content-highlight-color;
+    }
 }
 
 .highlight {
@@ -27,7 +37,8 @@ p {
     max-width: @page-width;
     margin: @box-margin;
     border: 1px solid @separator-color;
-    
+    font-size: @box-font-size;
+
     .top, .bottom {
         position: absolute;
         padding-left: @box-margin * 2;
@@ -80,16 +91,23 @@ p {
 .box-image {
     .box-styles();
     color: @highlight-font-color;
-    img { }
+    text-shadow: 1px 1.732px 0px rgba(0, 0, 0, 0.25);
+    .btn {
+        text-shadow: none;
+    }
 }
 
 a.box, a.box-50, a.box-33, a.box-image {
-    color: @content-font-color;
+    color: @content-highlight-color;
+    text-shadow: 0px 0px 1px @content-font-color;
+    font-weight: 300;
 }
 
 
 .separator {
     color: @separator-content-color;
+    font-size: @nav-font-size;
+    text-transform: uppercase;
     border: none;
     &:before {
         content: "";
@@ -112,7 +130,9 @@ a.box, a.box-50, a.box-33, a.box-image {
     }
 }
 
-
+.center {
+    text-align: center;
+}
 .buttons {
     
 }

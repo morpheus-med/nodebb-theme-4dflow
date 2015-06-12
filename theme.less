@@ -7,14 +7,14 @@
 @box-margin: 15px;
 @button-height: 52px;
 
-@main-title-color: rgb(46,65,102);
-@forum-title-color: rgb(108,108,108);
-
-@page-background-color: rgb(255,255,255);
+@content-font-color: rgb(108,108,108);
+@content-highlight-color: rgb(0,0,0);
 
 @highlight-color: rgb(76,217,170);
 @highlight-font-color: rgb(255,255,255);
-@content-font-color: rgb(0,0,0);
+
+@main-title-color: rgb(46,65,102);
+@forum-title-color: @content-font-color;
 
 @page-width: 978px + (@box-margin * 2);
 @narrow-width: 638px + (@box-margin * 2);
@@ -22,8 +22,25 @@
 @separator-color: rgb(217,217,217);
 @separator-content-color: rgb(153,153,153);
 
+@page-background-color: rgb(255,255,255);
+@button-color: rgb(204,204,204);
+@primary-button-color: @highlight-color;
+
+@title-font-size: 40px;
+@nav-font-size: 12px;
+@content-font-size: 16px;
+@box-font-size: 26px;
+
+
 body {
-    font-family: 'Arimo', sans-serif;
+    font-family: 'Lato', sans-serif;
+    padding-top: 22px;
+    font-size: @content-font-size;
+}
+
+h1 {
+    font-size: @title-font-size;
+    margin: @box-margin 0;
 }
 
 .container {
@@ -37,14 +54,22 @@ a:focus {
 
 .btn {
     border-radius: 0;
-    &, &:focus {
-           box-shadow: none;
-           color: @content-font-color;
-       }
-    &.btn-primary {
+    padding: 10px 20px !important;
+    font-size: @nav-font-size;
+    background-color: @button-color;
+    border-color: @button-color;
+    color: @highlight-font-color;
+    margin: @box-margin;
+    &,
+    &:focus,
+    &:hover {
         color: @highlight-font-color;
-        background-color: @highlight-color;
-        border-color: @highlight-color;
+        box-shadow: none;
+        border-color: @button-color;
+    }
+    &.btn-primary {
+        background-color: @primary-button-color;
+        border-color: @primary-button-color;
         &:focus {
             border-color: @highlight-color;
         }
