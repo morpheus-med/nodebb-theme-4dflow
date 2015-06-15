@@ -1,0 +1,71 @@
+= Setting up NodeBB for the 4D flow forum
+
+The document will guide you through how nodebb has been configured and set up for staging and in the production environment.
+
+== Forum Configuration (Admin Console)
+
+=== Plugins
+There are some required plugins that must be installed.
+
+ * Custom Homepage (nodebb-plugin-custom-homepage)
+ * Custom Static Pages (nodebb-plugin-custom-pages)
+ * Our theme (nodebb-theme-4dflow) *only for production*
+
+After plugins are installed you will need to restart the forum.
+
+=== Setup
+Go through all setup instructions, saving after each step as needed. These require plugins installed first.
+
+==== General -> Home Page ====
+
+ * Select Custom Home Page
+
+==== General -> Navigation ====
+
+ * Drag _Forum / Categories_ to the top on the left, and change text to *Categories*
+ * Delete the contents in _Icon Class_ and _Text Class_
+
+==== Settings -> General ====
+
+Site Title -> 4D Flow
+Browser Title -> 4D Flow
+Favicon
+
+==== Extend -> Widgets ====
+*Global* -> Delete the footer widget
+
+
+== Staging
+The staging environment is installed and configured on ci server, running on port *4567*, using the 4dflow db in mongo, under the *forum* user's home folder */home/forum/nodebb*.
+
+The server is started using an upstart script located at */etc/init/4dflow.conf* and runs grunt (npm install grunt-cli was necessary) which will watch for file system changes and restart the server as necessary.
+
+The *nodebb-theme-4dflow* theme is installed via a git clone in the node_modules folder and a cronjob (in user forum's crontab) is running a *git pull* every minute to pick up changes in github.
+
+
+* Install folder: /home/forum/nodebb
+* Theme folder: /home/forum/nodebb/node_modules/nodebb-theme-4dflow (git clone https://github.com/morpheus-med/nodebb-theme-4dflow.git)
+* Auto update (forum user crontab): * * * * * cd /home/forum/nodebb/node_modules/nodebb-theme-4dflow && git pull > /dev/null 2>&1 
+* Init script: /etc/init/4dflow.conf
+[source,shell]
+----
+description "Staging 4D Flow forum"
+author "Darryl"
+
+start on runlevel [2345]
+stop on shutdown
+
+setuid forum
+chdir /home/forum/nodebb
+exec node_modules/.bin/grunt
+----
+
+Editing on github directly should work for the most part. The cronjob should update the theme, and grunt should restart the server. Sometimes, the server will need to be restarted (e.g., adding brand new pages), then restarting will need to be done from the command line.
+----
+sudo restart 4dflow
+----
+
+== Production
+The 4dflow theme is updated and published to npm via a jenkins job, looking at the production branch of the github repo.
+
+Once published, it will then be possible to log into the production server and update the plugin.

@@ -1,0 +1,4 @@
+= Creating and Editing static content on the 4D flow forum
+
+This document is a basic guide for creating and editing content for the 4D flow forum. The content is stored in templates in a nodebb theme on github, where they can be edited, or created directly.
+    

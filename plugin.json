@@ -1,12 +1,22 @@
 {
 	"id": "nodebb-theme-4dflow",
-	"library": "./lib/theme.js",
+	"library": "./lib/library.js",
 	"hooks": [
 		{
-			"hook": "filter:widgets.getAreas", "method": "defineWidgetAreas", "callbacked": true
+			"hook": "static:app.load", "method": "init"
+		},
+		{
+			"hook": "filter:header.build", "method": "add_categories_navigation"
+		},
+		{
+			"hook": "action:homepage.get:4dflow", "method": "render_homepage"
+		},
+		{
+			"hook": "filter:homepage.get", "method": "add_homepage_option"
 		}
 	],
     "less": "theme.less",
+    "templates": "./templates",
 	"scripts": [
 		"lib/client.js"
 	],
