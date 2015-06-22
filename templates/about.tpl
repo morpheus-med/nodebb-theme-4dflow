@@ -5,7 +5,7 @@
   <a class='box-50' href="#">
     How does it work?
   </a>
-  <a class='box-50' href="#">
+  <a class='box-50' href="/about/benefits">
     4D Flow benefits
   </a>
   <a class='box-50' href='#'>
