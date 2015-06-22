@@ -28,8 +28,8 @@ The sample.tpl contains sections for most types of content you'll likely add, wh
 Linking to other content. *<a>* anchor tags link to internal and external contents using the href attribute.
 
 Examples
-* External: <a href="https://arterys.com">Link to Arterys</a>
-* Internal: <a href="/about/definition">Definitions</a>
+  * External: <a href="https://arterys.com">Link to Arterys</a>
+  * Internal: <a href="/about/definition">Definitions</a>
 
 === Images ===
 
