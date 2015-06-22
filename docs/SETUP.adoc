@@ -5,10 +5,7 @@ The document will guide you through how nodebb has been configured and set up fo
 == Forum Configuration (Admin Console)
 
 === Plugins
-There are some required plugins that must be installed.
-
- * Custom Homepage (nodebb-plugin-custom-homepage)
- * Custom Static Pages (nodebb-plugin-custom-pages)
+There is only one required plugin.
  * Our theme (nodebb-theme-4dflow) *only for production*
 
 After plugins are installed you will need to restart the forum.
@@ -18,12 +15,12 @@ Go through all setup instructions, saving after each step as needed. These requi
 
 ==== General -> Home Page ====
 
- * Select Custom Home Page
+ * Select 4D Flow Home page
 
 ==== General -> Navigation ====
 
- * Drag _Forum / Categories_ to the top on the left, and change text to *Categories*
- * Delete the contents in _Icon Class_ and _Text Class_
+ * Drag _Forum / Forum_ to the top on the left
+ * Delete the contents in _Icon Class_ and _Text Class_ of all entries
 
 ==== Settings -> General ====
 
@@ -69,3 +66,4 @@ sudo restart 4dflow
 The 4dflow theme is updated and published to npm via a jenkins job, looking at the production branch of the github repo.
 
 Once published, it will then be possible to log into the production server and update the plugin.
+

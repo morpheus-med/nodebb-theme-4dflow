@@ -3,8 +3,14 @@
   "version": "0.0.1",
   "description": "Theme for the 4dflow forum",
   "main": "less/theme.less",
-  "keywords": [
-
-  ],
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morpheus-med/nodebb-theme-4dflow.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^0.19.0",
+    "request": "^2.57.0"
+  }
 }

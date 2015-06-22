@@ -16,11 +16,11 @@
 		}
 	],
     "less": "theme.less",
-    "templates": "./templates",
+    "templates": "templates",
 	"scripts": [
 		"lib/client.js"
 	],
     "staticDirs": {
-        "images": "assets/images"
+        "assets": "assets"
     }
 }

@@ -1,4 +1,38 @@
 = Creating and Editing static content on the 4D flow forum
 
 This document is a basic guide for creating and editing content for the 4D flow forum. The content is stored in templates in a nodebb theme on github, where they can be edited, or created directly.
-    
+
+== Adding new pages / urls ==
+
+There is a file called *routes.json* which contains urls of static pages. The templates then need to be placed in the same location in the *views* folder.
+
+[source,json]
+----
+[
+    "home",
+    "about",
+    "about/definition",
+    "sample"
+]
+----
+
+Creating the content for the route means creating a matching *.tpl file in the views folder. For example, the about page is in *views/about.tpl* and the 
+
+== Content ==
+
+The sample.tpl contains sections for most types of content you'll likely add, which you can copy and paste from.
+
+
+=== Links ===
+
+Linking to other content. *<a>* anchor tags link to internal and external contents using the href attribute.
+
+Examples
+* External: <a href="https://arterys.com">Link to Arterys</a>
+* Internal: <a href="/about/definition">Definitions</a>
+
+=== Images ===
+
+<img src="/plugins/nodebb-theme-4dflow/assets/images/image.png" />
+
+
