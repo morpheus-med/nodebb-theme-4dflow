@@ -1,6 +1,6 @@
 <div class='section narrow'>
   <h1 class='section'>Benefits of 4D Flow</h1>
-  <img class='section' src="/plugins/nodebb-theme-4dflow/assets/images/bg1.jpg" />
+  <img class='section' src="/plugins/nodebb-theme-4dflow/assets/images/bg1.jpg" width="678" />
   <div class='section'>
     <p class='highlight'>
       4D Flow is a technology that enables an MRI to acquire in one single sequence.
