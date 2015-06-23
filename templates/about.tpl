@@ -2,7 +2,7 @@
   <a class='box-50' href="/about/definition">
     Definition of 4D Flow
   </a>
-  <a class='box-50' href="#">
+  <a class='box-50' href="/about/howitworks">
     How does it work?
   </a>
   <a class='box-50' href="/about/benefits">
