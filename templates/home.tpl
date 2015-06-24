@@ -1,8 +1,8 @@
 <div class='box-image'>
-  <img src="https://drive.google.com/open?id=0B_kfnCJDU9LSdVpBcDZhN0lKT2M&authuser=0" />
+  <img src="http://lorempixel.com/978/400" />
   <div class='center-content'>
     <h1>Featured Title</h1>
-    <a href="#" class='btn btn-primary'>Watch Image</a>
+    <a href="#" class='btn btn-primary'>Watch Video</a>
   </div>
 </div>
 
