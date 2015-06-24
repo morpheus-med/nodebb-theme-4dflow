@@ -2,7 +2,7 @@
   <img src="http://lorempixel.com/978/400" />
   <div class='center-content'>
     <h1>Featured Title</h1>
-    <a href="#" class='btn btn-primary'>Watch Video</a>
+    <a href="#" class='btn btn-primary'>Watch Image</a>
   </div>
 </div>
 
