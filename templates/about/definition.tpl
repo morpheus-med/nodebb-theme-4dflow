@@ -21,7 +21,7 @@
   <div class='separator'></div>
 
   <div class='section center'>
-    <a href='#' class='btn'><a href="/about/benefits">Prev</a></a>
+    <a href='#' class='btn'></a><a href="/about/benefits">Prev</a>
     <a href='#' class='btn btn-primary'><a href="/about/howitworks">Next</a></a>
   </div>
     
