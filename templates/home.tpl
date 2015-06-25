@@ -10,7 +10,7 @@
 
 <div class='section'>
   <div class='box-33'>
-    <img src="http://lorempixel.com/306/406" />
+    <img src="https://lh6.googleusercontent.com/z1GObV-9k90gNk8c5MRq1m1ITlG6DDfWv2zugBj_--AhbChPeeB_y51OUY1lHgU0cb7FCg=w1416-h641" height="406" width= "306" />
     <div class='top highlight'>Top content</div>
     <div class='bottom highlight'>Bottom content</div>
   </div>
