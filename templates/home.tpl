@@ -2,8 +2,7 @@
  <img src="https://lh5.googleusercontent.com/v2yGIe-QFN84BKPBsLVBk_SJgUl22tVvSSMujshIVGY05P55MbEMzbcYFMegcw53w6Gt7Q=w1416-h685" height="600" width="1000">
   <div class='center-content'>
     <h1>Featured Title</h1>
-    <a href="<iframe width="1000" height="563" src="https://www.youtube.com/embed/TkGsfyEwEak?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>" class='btn btn-primary'>Watch Video</a>
-     
+    
   </div>
 </div>
 
