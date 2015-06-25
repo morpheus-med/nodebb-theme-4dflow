@@ -1,5 +1,5 @@
 <div class='box-image'>
- <img src="http://www.joomlaworks.net/images/demos/galleries/abstract/7.jpg">
+ <img src="https://lh5.googleusercontent.com/v2yGIe-QFN84BKPBsLVBk_SJgUl22tVvSSMujshIVGY05P55MbEMzbcYFMegcw53w6Gt7Q=w1416-h685">
   <div class='center-content'>
     <h1>Featured Title</h1>
     <a href="#" class='btn btn-primary'>Watch Video</a>
