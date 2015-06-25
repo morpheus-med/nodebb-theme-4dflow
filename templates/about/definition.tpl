@@ -4,10 +4,11 @@
   <div class='section'>
       4D Flow is a technology that enables the single sequence acquisition of time 
       resolved 3D anatomy combined with blood flow velocity in all 3 directions.
-      thus, 4D Flow can be thought of simply as:
+      Thus, 4D Flow can be thought of simply as:
   <p>
     <p class='highlight'>
-      3D Anatomy + Flow + Time = 4D Flow
+      <center>3D Anatomy + Flow + Time = 4D Flow</center>
+      
     </p>
 <div class='section'>
       By obtaining volume data from a region of interest, e.g. the whole heart, the
