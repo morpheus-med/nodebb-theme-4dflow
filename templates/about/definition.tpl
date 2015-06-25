@@ -21,7 +21,7 @@
   <div class='separator'></div>
 
   <div class='section center'>
-    <a href='#' class='btn btn-primary'>Prev</a>
+    <a href='#' class='btn'>Prev</a>
     <a href='#' class='btn btn-primary'>Next</a>
   </div>
     
