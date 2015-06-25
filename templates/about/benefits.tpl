@@ -1,6 +1,6 @@
 <div class='section narrow'>
   <h1 class='section'>Benefits of 4D Flow</h1>
-  <img class='section' src="https://drive.google.com/thumbnail?id=0B15rbrurqSYTYk42OXBDdW02VWs&authuser=0&v=1435205362944&sz=w1416-h685" height="638"width="367"/>
+  <img class='section' src="https://drive.google.com/thumbnail?id=0B15rbrurqSYTYk42OXBDdW02VWs&authuser=0&v=1435205362944&sz=w1416-h685" height="367"width="638"/>
   <div class='section'>
       <b>Short acquisition:</b> 4D Flow reduces Cardiac MRI acquisition time by 5X-10X,
       from 60-90 minutes down to 10-20 minutes, depending on vendor sequences and case.
