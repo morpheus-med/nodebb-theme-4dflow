@@ -2,7 +2,9 @@
  <img src="https://lh5.googleusercontent.com/v2yGIe-QFN84BKPBsLVBk_SJgUl22tVvSSMujshIVGY05P55MbEMzbcYFMegcw53w6Gt7Q=w1416-h685" height="600" width="1000">
   <div class='center-content'>
 </div>
+
 <div class='separator'><span>Separator content</span></div>
+
 <div class='section'>
   <div class='box-33'>
     <img src="https://lh4.googleusercontent.com/ISK00XB6ALmVa50_JNUlRk2EBfl9XXDfs8H0Ww6eqP4MuEJBpRXNVQamcHx1FkPc7OYxEg=w1416-h641" height="406" width= "306" />
