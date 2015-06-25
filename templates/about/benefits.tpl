@@ -2,16 +2,18 @@
   <h1 class='section'>Benefits of 4D Flow</h1>
   <img class='section' src="http://lorempixel.com/638/367" />
   <div class='section'>
-    <p class='highlight'>
-      4D Flow is a technology that enables an MRI to acquire in one single sequence.
-      3D of anatomy and blood flow velocity in 3 directions with temporal data.
-    </p>
+      <b>Short acquisition:</b> 4D Flow reduces Cardiac MRI acquisition time by 5X-10X,
+      from 60-90 minutes down to 10-20 minutes, depending on vendor sequences and case.
     <p>
-      By obtaining volumetric data, the cardiac radiologist doesn't need to spend hours
-      at the scanners prescribing planar acquisitions. A radiology technician only need
-      to find the chest and launch the 4D Flow sequence and obtain a volumetric
-      acquisition.
-    </p>
+  <div class='section'>
+      <b>Simplicity:</b> Conventional Cardiac MRI's lengthiness and complexity of delivery
+      prevent its clinical adoption. With 4D Flow, the technique is fast and simple - the
+      technologist just locates the chest and scans.
+    <p>   
+   <div class='section'>
+      <b>Flow:</b> 4D Flow offers accurate blood flow velocity data in all 3 directions. 
+      Reference publications tab.
+    <p>     
   </div>
   <div class='separator'></div>
 
