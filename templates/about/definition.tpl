@@ -14,9 +14,8 @@
       cardiac radiologist is not required to spend hours at the scanner prescribing
       tedious planar acquisitions at highly specific locations on a moving object.
       A radiology technologist need only find the chest and launch the 4D Flow sequence
-      to obtain a volumetric acquisition. 4D Flow has applications in imaging and 
-      quantifying blood flow in the heart, brain, kidneys, liver - anywhere blood 
-      flow exists within the human body and within the limits of MRI resolution.
+      to obtain a volumetric acquisition. 4D Flow has applications in quantifying 
+      blood flow anywhere in the human body and within the limits of MRI resolution.
     </p>
   </div>
   <div class='separator'></div>
