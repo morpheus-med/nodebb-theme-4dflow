@@ -1,6 +1,6 @@
 <div class='section narrow'>
   <h1 class='section'>Definition of 4D Flow</h1>
-  <img class='section' src="http://lorempixel.com/638/367" />
+  <img class='section' src="https://drive.google.com/thumbnail?id=0B15rbrurqSYTTURhVC1SUm9vZEU&authuser=0&v=1435205024559&sz=w1416-h685" height="337" width="638" />
   <div class='section'>
       4D Flow is a technology that enables the single sequence acquisition of time 
       resolved 3D anatomy combined with blood flow velocity in all 3 directions.
