@@ -51,7 +51,6 @@
 	<div class="container">
 	  <!-- IMPORT partials/menu.tpl -->
 	</div>
-    <div class="separator"></div>
   </div>
   <div class="container" id="content">
 	<!-- IMPORT partials/noscript/warning.tpl -->
