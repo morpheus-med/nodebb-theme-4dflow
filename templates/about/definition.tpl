@@ -7,8 +7,7 @@
       Thus, 4D Flow can be thought of simply as:
   <p>
     <p class='highlight'>
-      <center>3D Anatomy + Flow + Time = 4D Flow</center>
-      
+      <center><b>3D Anatomy + Flow + Time = 4D Flow</b></center>
     </p>
 <div class='section'>
       By obtaining volume data from a region of interest, e.g. the whole heart, the
