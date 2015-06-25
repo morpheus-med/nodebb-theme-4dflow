@@ -6,7 +6,7 @@
    </div>
  </div>
 
-<div class='separator'><span>Separator content</span></div>
+<div class='separator'><span>APPLICATIONS</span></div>
 
 
 <div class='section'>
