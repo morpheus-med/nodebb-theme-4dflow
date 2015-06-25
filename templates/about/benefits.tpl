@@ -12,7 +12,7 @@
     <p>   
    <div class='section'>
       <b>Flow:</b> 4D Flow offers accurate blood flow velocity data in all 3 directions. 
-      Reference <a>href="/publications"</a> tab.
+      Reference <a href="/publications">Publications</a> tab.
     <p>     
   </div>
   <div class='separator'></div>
