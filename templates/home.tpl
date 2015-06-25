@@ -1,5 +1,5 @@
 <div class='box-image'>
-  <img src="http://lorempixel.com/978/400" />
+ <img src="https://photos-6.dropbox.com/t/2/AACfWFpAyJGCW2AESmpgqnG8AqzETcVz-_lT9jxszbQ4mw/12/56862510/jpeg/32x32/1/_/1/2/Arterys_Heart.jpg/CK7OjhsgASACIAMgBCAFIAYgBygBKAIoBw/unrrcigRN2DTKJv9AZMVxY5gwCOyOn-KFdHnkN6TUfA?size=1024x768&size_mode=2" alt="Smiley face" width="1024" height="768">
   <div class='center-content'>
     <h1>Featured Title</h1>
     <a href="#" class='btn btn-primary'>Watch Video</a>
