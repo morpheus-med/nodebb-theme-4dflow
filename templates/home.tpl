@@ -1,5 +1,5 @@
 <div class='box-image'>
-  <img src="https://lh5.googleusercontent.com/v2yGIe-QFN84BKPBsLVBk_SJgUl22tVvSSMujshIVGY05P55MbEMzbcYFMegcw53w6Gt7Q=w1416-h685" height="600" width="1000">
+  <img src="https://drive.google.com/thumbnail?id=0B15rbrurqSYTQW45ajYzTDQwY3c&authuser=0&v=1435201680113&sz=w1405-h617" height="600" width="1000">
    <div class='center-content'>
      
      
