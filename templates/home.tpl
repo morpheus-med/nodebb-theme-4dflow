@@ -1,5 +1,5 @@
 <div class='box-image'>
- <img src="https://lh5.googleusercontent.com/v2yGIe-QFN84BKPBsLVBk_SJgUl22tVvSSMujshIVGY05P55MbEMzbcYFMegcw53w6Gt7Q=w1416-h685" height="768" width="1020">
+ <img src="https://lh5.googleusercontent.com/v2yGIe-QFN84BKPBsLVBk_SJgUl22tVvSSMujshIVGY05P55MbEMzbcYFMegcw53w6Gt7Q=w1416-h685" height="600" width="950">
   <div class='center-content'>
     <h1>Featured Title</h1>
     <a href="#" class='btn btn-primary'>Watch Video</a>
