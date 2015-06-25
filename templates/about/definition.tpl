@@ -22,7 +22,7 @@
 
   <div class='section center'>
     <a href='#' class='btn'></a><a href="/about/benefits">Prev</a>
-    <a href='#' class='btn btn-primary'><a href="/about/howitworks">Next</a></a>
+    <a href='#' class='btn btn-primary'>Next</a>
   </div>
     
 </div>
