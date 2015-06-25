@@ -14,13 +14,13 @@
     <div class='top highlight'>Top content</div>
     <div class='bottom highlight'>Bottom content</div>
   </div>
-  <div class='box-33'>
-    <img src="https://lh3.googleusercontent.com/beBxqCnnIuuOzHtn-pmsGVJGRBUw5IatvXxhM_99s51KVcW7ENWh3tu5HI9novL76-1h8A=w1416-h641" height="406" width="306" />
+    <div class='box-33'>
+    <img src="https://lh6.googleusercontent.com/OflIezD6RIwuAfz6TDPqyBmrJe_sGZTmsrp0rK3QA9PGB5CZpLnMP-0ZUQ_Y5YyfpuC9cA=w1416-h641" height="406" width="306" />
     <div class='top highlight'>Top content</div>
     <div class='bottom highlight'>Bottom content</div>
   </div>
   <div class='box-33'>
-    <img src="https://lh6.googleusercontent.com/OflIezD6RIwuAfz6TDPqyBmrJe_sGZTmsrp0rK3QA9PGB5CZpLnMP-0ZUQ_Y5YyfpuC9cA=w1416-h641" height="406" width="306" />
+    <img src="https://lh3.googleusercontent.com/beBxqCnnIuuOzHtn-pmsGVJGRBUw5IatvXxhM_99s51KVcW7ENWh3tu5HI9novL76-1h8A=w1416-h641" height="406" width="306" />
     <div class='top highlight'>Top content</div>
     <div class='bottom highlight'>Bottom content</div>
   </div>
