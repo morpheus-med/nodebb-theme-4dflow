@@ -20,7 +20,7 @@
     <div class='bottom highlight'>Bottom content</div>
   </div>
   <div class='box-33'>
-    <img src="http://lorempixel.com/306/406" />
+    <img src="https://lh6.googleusercontent.com/OflIezD6RIwuAfz6TDPqyBmrJe_sGZTmsrp0rK3QA9PGB5CZpLnMP-0ZUQ_Y5YyfpuC9cA=w1416-h641" height="406" width="306" />
     <div class='top highlight'>Top content</div>
     <div class='bottom highlight'>Bottom content</div>
   </div>
