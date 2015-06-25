@@ -31,7 +31,7 @@
  </p>
      
 <div class='section'>   
-      <b>Warning:</b> The resultant file extremely large (5GB and above), considering that it
+      <b>Warning:</b> The resultant file is extremely large (5GB and above), considering that it
       now includes magnitude (anatomic) data over several cardiac phases (i.e. 20 time points) 
       and separate series for each of the three flow directions.
   </p>
