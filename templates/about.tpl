@@ -6,19 +6,10 @@
     How It Works
   </a>
   <a class='box-50' href="/about/benefits">
-    4D Flow benefits
+    4D Flow Benefits
   </a>
   <a class='box-50' href='#'>
-    Other 4D Flow 50% box
-  </a>
-  <a class='box-50' href='#'>
-    Other 4D Flow 50% box
-  </a>
-  <a class='box-50' href='#'>
-    Other 4D Flow 50% box
-  </a>
-  <a class='box-50' href='#'>
-    Other 4D Flow 50% box
+    4D Flow Evolution
   </a>
 </div>
 
