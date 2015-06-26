@@ -18,8 +18,8 @@
   </p>
   <p class='section'>
     Cardiac MRI with 4D Flow offers time resolved anatomical 3D images combined with accurate
-    quantitative blood flow data,  enabling objective and precise disease diagnosis that leads
-    to the establishment of appropriate treatment paths and meaningful comparative follow up.
+    quantitative blood flow data. It enables objective decision support for precise disease diagnosis,
+    leading to establishment of appropriate treatment paths and meaningful comparative follow up.
   </p>
   <p class='section'>
     <span class='highlight strong'>Pros:</span><br />
@@ -50,13 +50,13 @@
   </p>
   <p class='section'>
     A new alternative to highly invasive procedures like TEE or diagnostic catheterization is 4D Flow.
-    In 10 to 20 minutes, this technique can offer accurate flow information to categorize and accurately stage
+    In 10 to 20 minutes, this technique can offer accurate flow information to help categorize and stage
     valvular regurgitation as well as assess cardiac function.
   </p>
 
   <p class='section'>
     <span class='highlight strong'>Pros:</span><br />
-    &#8226; Accurate flow,regurgitant fraction measures which enable accurate, objective diagnosis<br />
+    &#8226; Accurate flow, regurgitant fraction measures enabling ojective decision support<br />
     &#8226; Quick (10 to 20 min) and simple
   </p>
 
