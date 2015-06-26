@@ -1,6 +1,6 @@
 <div class="separator"></div>
 <div class='section narrow'>
-  <h1 class='section'>Cardiology</h1>
+  <h1 class='section tall'>Cardiology</h1>
   <h2 class='section'>Congenital heart disease</h2>
   <div class='section'>
     <div class='box-image full-width'>

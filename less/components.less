@@ -13,16 +13,39 @@
         margin-left: auto;
         margin-right: auto;
         padding: @box-margin;
+        padding-top: 0;
     }
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: normal;
-    margin: @box-margin 0;
+    font-weight: bold;
+    font-color: @content-strong-color;
+    margin: 0;
 }
 
-h1 {
+h1.section {
+    font-size: @title-font-size;
+    font-weight: 300;
+    height: @title-font-size + 17px;
+    line-height: @title-font-size + 17px;
+    padding-top: 0;
+    padding-bottom: 0;
     text-align: center;
+    margin-bottom: @box-margin;
+
+    &.tall {
+        margin-bottom: 26px;
+    }
+}
+h2.section {
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: @box-font-size;
+    font-weight: 300;
+    margin-top: @box-margin;
+    margin-bottom: 9px;
+    height: @title-font-size + 17px;
+    line-height: @title-font-size + 17px;
 }
 
 table {
@@ -41,13 +64,14 @@ table {
     }
     &.section {
         margin: @box-margin 0;
+        margin-bottom: 40px;
         padding: @box-margin 0;
     }
 }
 
 .header-item {
     padding-top: @box-margin * 2;
-    padding-bottom: @box-margin * 3;
+    padding-bottom: @box-margin;
 }
 
 
@@ -99,6 +123,7 @@ p {
         .transform(translate(-50%, -50%));
         text-align: center;
         h1 {
+            letter-spacing: 0.2em;
             font-size: @box-font-size;
         }
         & > * {
@@ -124,7 +149,7 @@ p {
     float: left;
     width: (@page-width / 2) - (@box-margin * 2);
     min-width: 320px - (@box-margin * 2);
-    padding: @box-margin (@box-margin * 2);
+    padding: (@box-margin + 10px) ((@box-margin * 2) - 2px);
 }
 
 .box-33 {
@@ -137,10 +162,6 @@ p {
 .box-image {
     .box-styles();
     color: @highlight-font-color;
-    text-shadow: 1px 1.732px 0px rgba(0, 0, 0, 0.25);
-    .btn {
-        text-shadow: none;
-    }
 }
 
 .flush-with-top {
@@ -151,13 +172,15 @@ p {
 }
 a.box, a.box-50, a.box-33, a.box-image {
     color: @content-strong-color;
-    text-shadow: 0px 0px 1px @content-font-color;
     font-weight: 300;
 }
 
 
 .separator {
     color: @separator-content-color;
+    a, a:active, a:focus, a:hover {
+        color: @separator-content-color;
+    }
     font-size: @nav-font-size;
     text-transform: uppercase;
     border: none;
@@ -174,7 +197,7 @@ a.box, a.box-50, a.box-33, a.box-image {
     }
     position: relative;
     text-align: center;
-    padding: @box-margin 0;
+    padding: (@box-margin + 1px) 0;
     margin: 0 @box-margin;
     & > * {
         display: inline-block;
@@ -194,7 +217,7 @@ a.box, a.box-50, a.box-33, a.box-image {
     height: 385px;
     .title {
         font-size: @box-font-size;
-        font-weight: light;
+        font-weight: 300;
         font-color: @content-strong-color;
         display: block;
     }

@@ -1,6 +1,14 @@
 <div class="separator"></div>
+<div class='section header-item'>
+  <div class='box-image'>
+    <img src="/plugins/nodebb-theme-4dflow/assets/images/FAQ.png" />
+    <div class='center-content'>
+      <img class='icon' src="/plugins/nodebb-theme-4dflow/assets/icons/Icon_FAQ.png" />
+      <h1>F.A.Q.</h1>
+    </div>
+  </div>
+</div>
 <div class='section narrow'>
-  <h1 class='section'>Frequently Asked Questions</h1>
   <div class="separator">
     <a href="#general">General</a>
     <a href="#acquisition">Acquisition</a>
@@ -9,7 +17,7 @@
   </div>
 
   <h2 class='section'><a name="general"></a>General</h2>
-  <p class='section strong'>
+  <p class='section strong highlight'>
     There is has been a lot of interest surrounding 4D Flow lately. What
     recent progress has been made?
   </p>
@@ -28,7 +36,7 @@
     a clinical, high-throughput setting.
   </p>
 
-  <p class='section strong'>
+  <p class='section strong highlight'>
     Why has it taken so long for 4D Flow and Cardiac MRI to be adopted?
   </p>
   <p class='section'>
@@ -38,7 +46,7 @@
     to improve in its application and practice.
   </p>
 
-  <p class='section strong'>
+  <p class='section strong highlight'>
     What are problems and challenges that cardiac imagers face and how does 4D Flow make Cardiac MRI a
     more viable clinical technique?    
   </p>
@@ -52,7 +60,7 @@
     within 4D Flow.
   </p>
 
-  <p class='section strong'>
+  <p class='section strong highlight'>
     How does 4D Flow MRI compare with other modalities such as echocardiography, CT and diagnostic
     catheterization in assessing blood flow and cardiac function?
   </p>
@@ -63,7 +71,7 @@
     is entering the mainstream to become a new gold standard. 
   </p>
 
-  <p class='section strong'>
+  <p class='section strong highlight'>
     For valvular disease, does 4D Flow change the way conditions are managed and treated?
   </p>
   <p class='section'>
@@ -75,7 +83,7 @@
   </p>
 
   <h2 class='section'><a name="acquisition"></a>Acquisition</h2>
-  <p class='section strong'>
+  <p class='section strong highlight'>
     What special settings do I need to use on my MRI to obtain high resolution, high SNR and artifact-free
     studies?
   </p>
@@ -100,7 +108,7 @@
     this field, the knowledge base is expanding and being shared. 
   </p>
 
-  <p class='section strong'>
+  <p class='section strong highlight'>
     How long does it take to acquire, reconstruct and do post-processing on 4D Flow studies? 
   </p>
   <p class='section'>
@@ -110,14 +118,14 @@
 
   <h2 class='section'><a name="clinical"></a>Clinical</h2>
   
-  <p class='section strong'>
+  <p class='section strong highlight'>
     How much training is required to perform 4D Flow successfully?
   </p>
   <p class='section'>
     Very little training is required to perform successful 4D Flow scans.  Board certified
     radiologists determine diagnoses.
   </p>
-  <p class='section strong'>
+  <p class='section strong highlight'>
     Do I need to have cardiac training?
   </p>
   <p class='section'>
