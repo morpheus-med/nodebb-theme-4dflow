@@ -33,7 +33,7 @@
     &#8226; Not a bedside technology
   </p>
 
-  <h2 class='section'>Valve Heart Disease</h2>
+  <h2 class='section'>Valvular Heart Disease</h2>
   <div class='section'>
     <div class='box-image full-width'>
       <img src="/plugins/nodebb-theme-4dflow/assets/images/Valvular.png" />

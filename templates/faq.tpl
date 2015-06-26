@@ -22,10 +22,10 @@
     recent progress has been made?
   </p>
   <p class='section'>
-    There are a number of factors that have contributed to the recent uptick in 4D Flow interest. It
-    used to be that Cardiac MRI was the only technique available and, due to the length of time and
-    expertise required to perform, it was and still is very expensive, not to mention uncomfortable for
-    the patient.
+    There are a number of factors that have contributed to the recent uptick in 4D Flow interest. 
+    Conventional Cardiac MRI has been in use for over a decade but, due to the length of time and 
+    expertise required to perform, it is a very expensive technique, not to mention uncomfortable 
+    for the patient.
   </p>
 
   <p class='section'>

@@ -12,8 +12,8 @@
   <h1 class='section'>How to start?</h1>
   <h2 class='section'>Step 1</h2>
   <p class='section'>
-    Obtain and install a 4D Flow pulse sequence. This can be achieved through MRI vendors or via
-    lab that have created their own version for research acquisition.
+    Obtain and install a 4D Flow pulse sequence from MRI vendors or from imaging labs
+    that have created their own sequences for research acquisitions.
   </p>
   <table class='section'>
     <tr>
@@ -56,7 +56,7 @@
       <td><em>Ensight.com</em></td>
     </tr>
     <tr>
-      <td class='highlight'>Siemens WIP post-processing</td>
+      <td class='highlight'>Siemens WIP</td>
       <td><em>Siemens.com</em></td>
     </tr>
     <tr>
@@ -66,8 +66,8 @@
   </table>
   <h2 class='section'>Step 3</h2>
   <p class='section'>
-    To increase SNR in cardiac cases, the use of a blood pool agent is recommended. There are many
-    available under a variety of trade names. Here are some:
+    Blood pool agents may be used to increase SNR in cardiac cases (off-label application).
+    There are many available under a variety of trade names. Here are some:
   </p>
   <table class='section'>
     <tr>
@@ -93,20 +93,18 @@
   </table>
   <h2 class='section'>Step 4</h2>
   <p class='section'>
-    <span class='highlight'>Acquisition:</span> Depends on the sequence. Select the parameters depending
-    on the case. To have further information, feel free to check our forum to discuss the optimal set of
-    parameters.
+    <span class='highlight'>Acquisition:</span> Depends on the sequence. Select the parameters according
+    to the case. For more information, check the forum for parameters optimization.
   </p>
   <h2 class='section'>Step 5</h2>
   <p class='section'>
-    <span class='highlight'>Recon:</span> The images needs to be reconstructed to produce a DICOM dataset.
+    <span class='highlight'>Recon:</span> The images need to be reconstructed to produce a DICOM dataset.
   </p>
     
   <h2 class='section'>Step 6</h2>
   <p class='section'>
     <span class='highlight'>Post-processing:</span> The DICOM can be visualized and quantified using a
-    post-processing software package. The report can then be sent to PACS depending on the integration
-    with the hospital PACS.
+    post-processing software package. The report can then be sent to the hospital PACS if systems have been integrated.
   </p>
 </div>
 

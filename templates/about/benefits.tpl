@@ -28,8 +28,8 @@
       </tr>
       <tr>
         <td class='highlight'>Flow</td>
-        <td><em>Innacurate</em></td>
-        <td><em>Accurate</em></td>
+        <td><em>2 or 3 Locations</em></td>
+        <td><em>Everywhere</em></td>
       </tr>
     </tbody>
   </table>
