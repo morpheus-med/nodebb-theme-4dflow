@@ -21,6 +21,7 @@
     to prescribe the scan parameters. And, for the patient, who might not be able to hold their
     breath, the procedure is far more comfortable and much faster.
   </p>
+  <img class='section' src="/plugins/nodebb-theme-4dflow/assets/images/Process.png" />
   <p class='section'>
     Once the scanner is fully configured for 4D Flow acquisitions, studies may be performed. The
     technologist places a cube that bounds the three dimensional chest of the patient and then
