@@ -30,7 +30,7 @@
     </div>
   </a>
 
-  <a class='box-50 publication' href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Publications/2015_JACC_Wolff_Discordance Between Echocardiography and MRI in the Assessment of Mitral Regurgitation Severity- A Prospective Multicenter Trial.pdf">
+  <a class='box-50 publication' href="http://dx.doi.org/10.1016/j.jacc.2014.12.047">
     <div class='top'>
       <span class='title'>Discordance Between Echocardiography and MRI in the Assessment of Mitral Regurgitation Severity</span>
       <span class='author'>Uretsky, Gillam, Lang et al</span>
