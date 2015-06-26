@@ -71,7 +71,7 @@
     </div>
   </a>
 
-  <a class='box-50 publication' href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Publications/2012_AJR_Rapid Pediatric Cardiac Assessment of Flow and Ventricular Volume With Compressed Sensing Parallel Imaging Volumetric Cine Phase-Contrast MRI.pdf">
+  <a class='box-50 publication' href="http://www.ajronline.org/doi/abs/10.2214/AJR.11.6969">
     <div class='top'>
       <span class='title'>Rapid Pediatric Cardiac Assessment of Flow and Ventricular Volume With Compressed Sensing Parallel Imaging Volumetric Cine Phase-Contrast MRI</span>
       <span class='author'>Hsiao, Lustig, Alley et al</span>
