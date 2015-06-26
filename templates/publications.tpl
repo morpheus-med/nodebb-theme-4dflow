@@ -10,7 +10,7 @@
 </div>
 
 <div class='section'>
-  <a class='box-50 publication' href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Publications/2015_jmri24928.pdf">
+  <a class='box-50 publication' href="http://dx.doi.org/10.1002/jmri.24928">
     <div class='top'>
       <span class='title'>Improved Quantification and Mapping of Anomalous Pulmonary Venous Flow With Four-Dimensional Phase-Contrast MRI and Interactive Streamline Rendering</span>
       <span class='author'>Hsiao, Yousaf, Alley, Lustig et al</span>
