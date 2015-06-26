@@ -5,6 +5,9 @@
 .section {
     .clearfix();
     padding: @box-margin 0;
+    &.indent {
+        padding-left: @box-margin;
+    }
     &.narrow {
         max-width: @narrow-width;
         margin-left: auto;
@@ -36,9 +39,13 @@ table {
         }
         
     }
+    &.section {
+        margin: @box-margin 0;
+        padding: @box-margin 0;
+    }
 }
 
-.header {
+.header-item {
     padding-bottom: @box-margin * 3;
 }
 
@@ -135,6 +142,9 @@ p {
     }
 }
 
+.flush-with-top {
+    margin-top: 0;
+}
 .header {
     margin-top: @box-margin;
 }
