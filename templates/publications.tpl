@@ -47,7 +47,7 @@
       <span class='author'>Hsiao, Tariq, Alley et al</span>
     </div>
     <div class='bottom'>
-      <span class='journal'>JMRI</span><span class='date'>2013.12.28</span>
+      <span class='journal'>JMRI</span><span class='date'>2015.02.01</span>
     </div>
   </a>
 
