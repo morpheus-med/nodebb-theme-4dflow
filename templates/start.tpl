@@ -12,8 +12,8 @@
   <h1 class='section'>How to start?</h1>
   <h2 class='section'>Step 1</h2>
   <p class='section'>
-    Obtain and install a 4D Flow pulse sequence. This can be achieved through MRI vendors or via
-    lab that have created their own version for research acquisition.
+    Obtain and install a 4D Flow pulse sequence from MRI vendors or from imaging labs
+    lathat have created their own sequences for research acquisitions.
   </p>
   <table class='section'>
     <tr>
