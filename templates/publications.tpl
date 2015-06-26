@@ -81,7 +81,7 @@
     </div>
   </a>
 
-  <a class='box-50 publication' href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Publications/2011_Pediatr_Radiol_Improved_Cardiovascular_Flow_Quantification_with_Time-Resolved_Volumetric_Phase_Contrast_MRI.pdf">
+  <a class='box-50 publication' href="http://dx.doi.org/10.1007/s00247-010-1932-z">
     <div class='top'>
       <span class='title'>Improved cardiovascular flow quantification with time-resolved volumetric phase-contrast MRI</span>
       <span class='author'>Hsiao, Alley, Massaband et al</span>
