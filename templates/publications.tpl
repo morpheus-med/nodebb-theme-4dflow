@@ -51,7 +51,7 @@
     </div>
   </a>
 
-  <a class='box-50 publication' href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Publications/2013_JMR_Tariq_Venous and Arterial Flow Quantification Are Equally Accurate and Precise With Parallel Imaging Compressed Sensing 4D Phase Contrast MRI.pdf">
+  <a class='box-50 publication' href="http://dx.doi.org/10.1002/jmri.23936">
     <div class='top'>
       <span class='title'>Venous and Arterial Flow Quantification Are Equally Accurate and Precise With Parallel Imaging Compressed Sensing 4D Phase Contrast MRI</span>
       <span class='author'>Tariq, Hsiao, Alley et al</span>
