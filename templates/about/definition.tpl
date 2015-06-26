@@ -12,7 +12,7 @@
   </p>
   <p class='section'>
     By obtaining volume data from a region of interest, e.g. the whole heart, the
-    cardiac radiologist is not required to spend hours at the scanner prescribing
+    cardiac imager is not required to spend hours at the scanner prescribing
     tedious planar acquisitions at highly specific locations on a moving object.
   </p>
   <p class='section'>
