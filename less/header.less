@@ -93,6 +93,7 @@
 .section.footer-section {
     color: @separator-content-color;
     font-size: @nav-font-size;
+    padding-top: @box-margin * 2;
     .clearfix();
     a, a:hover, a:focus, a:visited  {
         color: @separator-content-color;
@@ -100,14 +101,21 @@
     }
     img {
         display: inline-block;
+        margin-top: -21px;
     }
     .left {
         float: left;
+        padding-left: @box-margin;
     }
     .right {
         float: right;
+        font-weight: bold;
+        display: block;
+        text-transform: uppercase;
+        padding-left: @box-margin * 2;
+        padding-right: @box-margin;
     }
     span, em, a {
-        vertical-align: -10px;
+        display: inline-block;
     }
 }
