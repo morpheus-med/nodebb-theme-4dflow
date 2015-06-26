@@ -66,8 +66,8 @@
   </table>
   <h2 class='section'>Step 3</h2>
   <p class='section'>
-    To increase SNR in cardiac cases, the use of a blood pool agent is recommended. There are many
-    available under a variety of trade names. Here are some:
+    Blood pool agents may be used to increase SNR in cardiac cases (Note: off-label application).
+    There are many available under a variety of trade names. Here are some:
   </p>
   <table class='section'>
     <tr>
