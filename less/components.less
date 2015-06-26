@@ -189,3 +189,41 @@ a.box, a.box-50, a.box-33, a.box-image {
 .buttons {
     
 }
+
+.publication {
+    height: 385px;
+    .title {
+        font-size: @box-font-size;
+        font-weight: light;
+        font-color: @content-strong-color;
+        display: block;
+    }
+    .author {
+        font-size: @nav-font-size;
+        font-weight: bold;
+        color: @highlight-color;
+        display: block;
+        text-transform: uppercase;
+        padding-top: 10px;
+    }
+
+    .journal {
+        font-weight: bold;
+        font-style: italic;
+        color: @content-strong-color;
+        font-size: @nav-font-size + 1px;
+        display: inline-block;
+        padding-right: 10px;
+        line-height: @nav-font-size + 1px;
+    }
+    .date {
+        display: inline-block;
+        padding-left: 10px;
+        border-left: 1px solid @separator-content-color;
+        color: @separator-content-color;
+        font-weight: bold;
+        font-style: italic;
+        font-size: @nav-font-size + 1px;
+        line-height: @nav-font-size + 1px;
+    }
+}
