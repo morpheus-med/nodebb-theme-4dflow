@@ -61,7 +61,7 @@
     </div>
   </a>
 
-  <a class='box-50 publication' href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Publications/2012_Radiology-Hsiao_Evaluation_of_Valvular_Insufficiency_4D_PC_MRI.pdf">
+  <a class='box-50 publication' href="http://dx.doi.org/10.1148/radiol.12120055">
     <div class='top'>
       <span class='title'>Evaluation of Valvular Insufficiency and Shunts with Parallel-imaging Compressed-sensing 4D Phase-contrast MR Imaging with Stereoscopic 3D Velocity-fusion Volume-rendered Visualization</span>
       <span class='author'>Hsiao, Lustig, Alley et al</span>
