@@ -16,7 +16,7 @@
     Instead of acquiring 2D single slices (while forcing an already compromised patient to hold
     their breath), the 4D Flow acquisition is now a volume scan combined with a highly
     sophisticated motion correction algorithm. In other words, specific localization is no
-    longer necessary and therefore a cardiologist or cardiac radiologist does not need to be
+    longer necessary and therefore a cardiologist or cardiac imager does not need to be
     present during the scan. Instead, an MR technologist is all that is required at the scanner
     to prescribe the scan parameters. And, for the patient, who might not be able to hold their
     breath, the procedure is far more comfortable and much faster.
