@@ -9,7 +9,7 @@
   </div>
 </div>
 <div class='section narrow flush-with-top'>
-  <h1 class='section'>How to start?</h1>
+  <h1 class='section tall'>How to start?</h1>
   <h2 class='section'>Step 1</h2>
   <p class='section'>
     Obtain and install a 4D Flow pulse sequence from MRI vendors or from imaging labs
