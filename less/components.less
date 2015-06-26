@@ -1,6 +1,7 @@
-#content .section {
+#content > .section:first-child {
     padding-top: 0;
 }
+
 .section {
     .clearfix();
     padding: @box-margin 0;
@@ -21,11 +22,29 @@ h1 {
     text-align: center;
 }
 
+table {
+    width: 100%;
+    tr {
+        line-height: 2.5;
+    }
+    thead {
+        
+    }
+    tbody {
+        tr {
+            border-bottom: 1px solid @separator-color;
+        }
+        
+    }
+}
+
+.header {
+    padding-bottom: @box-margin * 3;
+}
+
 
 p {
-    margin-top: @box-margin;
-    margin-bottom: @box-margin;
-
+    margin: @box-margin 0 0 0;
     color: @content-font-color;
     &.box {
         padding: (@box-margin * 2) 0;
@@ -44,14 +63,16 @@ p {
     color: @content-highlight-color;
 }
 
-
 .box-styles() {
     position: relative;
-    max-width: @page-width;
+    max-width: @page-width + (@box-margin * 2);
     margin: @box-margin;
     border: 1px solid @separator-color;
     font-size: @box-font-size;
 
+    &.full-width {
+        margin: @box-margin 0;
+    }
     .top, .bottom {
         position: absolute;
         padding-left: @box-margin * 2;
@@ -69,9 +90,13 @@ p {
         top: 50%;
         .transform(translate(-50%, -50%));
         text-align: center;
-
+        h1 {
+            font-size: @box-font-size;
+        }
         & > * {
-            padding: @box-margin;
+            margin: @box-margin;
+            padding: 0;
+
         }
     }
 
@@ -110,6 +135,9 @@ p {
     }
 }
 
+.header {
+    margin-top: @box-margin;
+}
 a.box, a.box-50, a.box-33, a.box-image {
     color: @content-strong-color;
     text-shadow: 0px 0px 1px @content-font-color;
@@ -136,6 +164,7 @@ a.box, a.box-50, a.box-33, a.box-image {
     position: relative;
     text-align: center;
     padding: @box-margin 0;
+    margin: 0 @box-margin;
     & > * {
         display: inline-block;
         background-color: @page-background-color;

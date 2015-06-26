@@ -1,12 +1,21 @@
-<image>/whatever.png</image>
-<bold>Clinical Applications</bold>
-<paragraph>Cardiology</paragraph>
-
-
-
-
-
-
-<image>/whatever.png</image>
-<bold>whatever you want in bold</bold>
-<paragraph>A paragraph of text</paragraph>
+<div class="separator"></div>
+<div class='section header'>
+  <div class='box-image'>
+    <img src="/plugins/nodebb-theme-4dflow/assets/images/Application.png" />
+    <div class='center-content'>
+      <img class='icon' src="/plugins/nodebb-theme-4dflow/assets/icons/Icon_Applications.png" />
+      <h1>APPLICATIONS</h1>
+    </div>
+  </div>
+</div>
+<div class='section'>
+  <a class='box-50' href="/applications/cardiology">
+    Cardiology
+  </a>
+  <a class='box-50' href="/applications/neuro">
+    Neuro
+  </a>
+  <a class='box-50' href="/applications/abdominal">
+    Abdominal
+  </a>
+</div>
