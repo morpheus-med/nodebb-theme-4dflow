@@ -1,5 +1,5 @@
 <div class="separator"></div>
-<div class='section'>
+<div class='section header-item'>
   <div class='box-image'>
     <img src="/plugins/nodebb-theme-4dflow/assets/images/Start.png" />
     <div class='center-content'>
