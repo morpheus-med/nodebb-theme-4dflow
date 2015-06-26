@@ -121,6 +121,23 @@ p {
     .top {
         top: @box-margin * 2;
     }
+    &.home-box {
+        .bottom, .top {
+            color: @highlight-font-color;
+        }
+        .bottom {
+            font-weight: 300;
+        }
+        .top {
+            font-size: @nav-font-size;
+            letter-spacing: 0.2em;
+            font-weight: bold;
+            text-transform: uppercase;
+            div {
+                padding-top: 10px;
+            }
+        }
+    }
 
     &.video {
         * {
@@ -173,6 +190,7 @@ p {
     min-width: 320px - (@box-margin * 2);
 }
 
+
 .box-image {
     .box-styles();
     color: @highlight-font-color;
@@ -213,6 +231,9 @@ a.box, a.box-50, a.box-33, a.box-image {
     text-align: center;
     padding: (@box-margin + 1px) 0;
     margin: 0 @box-margin;
+    .single {
+        min-width: 306px;
+    }
     & > * {
         display: inline-block;
         background-color: @page-background-color;

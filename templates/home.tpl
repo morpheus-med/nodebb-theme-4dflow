@@ -7,4 +7,37 @@
     </div>
   </div>
 </div>
+<div class='separator'><span class='single'>Latest News</span></div>
+<div class='section'>
+  <a class='box-33 home-box' href="/about">
+    <img src="/plugins/nodebb-theme-4dflow/assets/images/Home_About.png" />
+    <div class='top'>
+      <img src="/plugins/nodebb-theme-4dflow/assets/icons/Icon_About.png" />
+      <div>About</div>
+    </div>
+    <div class='bottom'>
+      Definition of the 4D Flow
+    </div>
+  </a>
+  <a class='box-33 home-box' href="/publications">
+    <img src="/plugins/nodebb-theme-4dflow/assets/images/Home_Publications.png" />
+    <div class='top'>
+      <img src="/plugins/nodebb-theme-4dflow/assets/icons/Icon_Publication.png" />
+      <div>Publications</div>
+    </div>
+    <div class='bottom'>
+      Read all papers about the subject
+    </div>
+  </a>
+  <a class='box-33 home-box' href="/faq">
+    <img src="/plugins/nodebb-theme-4dflow/assets/images/Home_Faq.png" />
+    <div class='top'>
+      <img src="/plugins/nodebb-theme-4dflow/assets/icons/Icon_FAQ.png" />
+      <div>F.A.Q.</div>
+    </div>
+    <div class='bottom'>
+      Questions? Learn more about 4D Flow
+    </div>
+  </a>
+</div>
     
