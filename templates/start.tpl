@@ -17,22 +17,22 @@
   </p>
   <table class='section'>
     <tr>
-      <td class='highlight'>Vendor</td>
+      <td class='highlight strong'>Vendor</td>
       <td><em>Research</em></td>
       <td><em>Clinical</em></td>
     </tr>
     <tr>
-      <td class='highlight'>GE</td>
+      <td class='highlight strong'>GE</td>
       <td><em>Sequence</em></td>
       <td><em>Not released</em></td>
     </tr>
     <tr>
-      <td class='highlight'>Philips</td>
+      <td class='highlight strong'>Philips</td>
       <td><em>Available</em></td>
       <td><em>Clinical sequence available</em></td>
     </tr>
     <tr>
-      <td class='highlight'>Siemens</td>
+      <td class='highlight strong'>Siemens</td>
       <td><em>WIP exists</em></td>
       <td><em>Not released</em></td>
     </tr>
@@ -44,23 +44,23 @@
   </p>
   <table class='section'>
     <tr>
-      <td class='highlight'>Vendor</td>
+      <td class='highlight strong'>Vendor</td>
       <td><em>URL</em></td>
     </tr>
     <tr>
-      <td class='highlight'>Gyrotools</td>
+      <td class='highlight strong'>Gyrotools</td>
       <td><em>Gyrotools.com</em></td>
     </tr>
     <tr>
-      <td class='highlight'>EnSight</td>
+      <td class='highlight strong'>EnSight</td>
       <td><em>Ensight.com</em></td>
     </tr>
     <tr>
-      <td class='highlight'>Siemens WIP</td>
+      <td class='highlight strong'>Siemens WIP</td>
       <td><em>Siemens.com</em></td>
     </tr>
     <tr>
-      <td class='highlight'>Arterys</td>
+      <td class='highlight strong'>Arterys</td>
       <td><em>Arterys.com</em></td>
     </tr>
   </table>
@@ -71,39 +71,39 @@
   </p>
   <table class='section'>
     <tr>
-      <td class='highlight'>Trade Name</td>
+      <td class='highlight strong'>Trade Name</td>
       <td><em>Element</em></td>
       <td style="max-width: 306px; text-overflow: ellipsis; overflow: hidden;"><em>URL</em></td>
     </tr>
     <tr>
-      <td class='highlight'>Ablavar</td>
+      <td class='highlight strong'>Ablavar</td>
       <td><em>Gadolinium</em></td>
       <td style="max-width: 306px; text-overflow: ellipsis; overflow: hidden;"><em>ablavar.com</em></td>
     </tr>
     <tr>
-      <td class='highlight'>Feraheme</td>
+      <td class='highlight strong'>Feraheme</td>
       <td><em>Iron</em></td>
       <td style="max-width: 306px; text-overflow: ellipsis; overflow: hidden;"><em>www.amagpharma.com/products/feraheme/</em></td>
     </tr>
     <tr>
-      <td class='highlight'>Gadavist</td>
+      <td class='highlight strong'>Gadavist</td>
       <td><em>Gadolinium</em></td>
       <td style="max-width: 306px; text-overflow: ellipsis; overflow: hidden;"><em>www.radiologysolutions.bayer.com/products/mr/contrast/gadavist/</em></td>
     </tr>
   </table>
   <h2 class='section'>Step 4</h2>
   <p class='section'>
-    <span class='highlight'>Acquisition:</span> Depends on the sequence. Select the parameters according
+    <span class='highlight strong'>Acquisition:</span> Depends on the sequence. Select the parameters according
     to the case. For more information, check the forum for parameters optimization.
   </p>
   <h2 class='section'>Step 5</h2>
   <p class='section'>
-    <span class='highlight'>Recon:</span> The images need to be reconstructed to produce a DICOM dataset.
+    <span class='highlight strong'>Recon:</span> The images need to be reconstructed to produce a DICOM dataset.
   </p>
     
   <h2 class='section'>Step 6</h2>
   <p class='section'>
-    <span class='highlight'>Post-processing:</span> The DICOM can be visualized and quantified using a
+    <span class='highlight strong'>Post-processing:</span> The DICOM can be visualized and quantified using a
     post-processing software package. The report can then be sent to the hospital PACS if systems have been integrated.
   </p>
 </div>

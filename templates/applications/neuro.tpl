@@ -20,14 +20,14 @@
     (AVMs) and development of ischemic conditions in the head and neck.
   </p>
   <p class='section'>
-    <span class='highlight'>Pros:</span><br />
+    <span class='highlight strong'>Pros:</span><br />
     &#8226; 10 minute scan<br />
     &#8226; Non-invasive<br />
     &#8226; Accurate flow data<br />
     &#8226; Simple
   </p>
   <p class='section'>
-    <span class='highlight'>Cons:</span><br />
+    <span class='highlight strong'>Cons:</span><br />
     &#8226; Contrast agent suggested for best results<br />
     &#8226; Contraindicated in patients with MRI-incompatible repairs
   </p>

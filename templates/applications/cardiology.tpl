@@ -22,13 +22,13 @@
     to the establishment of appropriate treatment paths and meaningful comparative follow up.
   </p>
   <p class='section'>
-    <span class='highlight'>Pros:</span><br />
+    <span class='highlight strong'>Pros:</span><br />
     &#8226; 10 minute scan<br />
     &#8226; Accurate flow data everywhere<br />
     &#8226; Simple
   </p>
   <p class='section'>
-    <span class='highlight'>Cons:</span><br />
+    <span class='highlight strong'>Cons:</span><br />
     &#8226; Contrast agent suggested for best results<br />
     &#8226; Not a bedside technology
   </p>
@@ -55,13 +55,13 @@
   </p>
 
   <p class='section'>
-    <span class='highlight'>Pros:</span><br />
+    <span class='highlight strong'>Pros:</span><br />
     &#8226; Accurate flow,regurgitant fraction measures which enable accurate, objective diagnosis<br />
     &#8226; Quick (10 to 20 min) and simple
   </p>
 
   <p class='section'>
-    <span class='highlight'>Cons:</span><br />
+    <span class='highlight strong'>Cons:</span><br />
     &#8226; Contrast agent suggested for best results<br />
     &#8226; Contraindicated in patients with older generation of pacemakers and defibrillators<br />
     &#8226; Not a bedside technology
