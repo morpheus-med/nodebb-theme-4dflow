@@ -20,7 +20,7 @@
     </div>
   </a>
 
-  <a class='box-50 publication' href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Publications/2015_JMRI_Vasanawala_etal_Congenital_Heart_Disease_Assessment_Journal_of_Magnetic_Resonance_Imaging.pdf">
+  <a class='box-50 publication' href="http://dx.doi.org/10.1002/jmri.24856">
     <div class='top'>
       <span class='title'>Congenital Heart Disease Assessment With 4D Flow MRI</span>
       <span class='author'>Vasanawala, Hanneman, Alley et al</span>
