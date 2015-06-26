@@ -40,7 +40,7 @@
     </div>
   </a>
 
-  <a class='box-50 publication' href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Publications/2014_JMRI24578_Inlet_and_Outlet_Valve_Flow_Hsiao_Tariq_Alley_Lustig_Vasanawala.pdf">
+  <a class='box-50 publication' href="http://dx.doi.org/10.1002/jmri.24578">
     <div class='top'>
       <span class='title'>Inlet and Outlet Valve Flow and Regurgitant Volume
  May Be Directly and Reliably Quantified With Accelerated, Volumetric Phase-Contrast MRI</span>
