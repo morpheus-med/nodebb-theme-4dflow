@@ -95,6 +95,11 @@ p {
     color: @content-highlight-color;
 }
 
+.btn.video-play {
+    width: 82px;
+    margin: 0;
+}
+
 .box-styles() {
     position: relative;
     max-width: @page-width + (@box-margin * 2);
@@ -115,6 +120,15 @@ p {
     }
     .top {
         top: @box-margin * 2;
+    }
+
+    &.video {
+        * {
+            display: none;
+        }
+        iframe {
+            display: block;
+        }
     }
     .center-content {
         position: absolute;

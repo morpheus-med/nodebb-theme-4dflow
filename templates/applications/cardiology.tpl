@@ -5,8 +5,8 @@
   <div class='section'>
     <div class='box-image full-width'>
       <img src="/plugins/nodebb-theme-4dflow/assets/images/Congenital.png" />
-      <div class='center-content'>
-        <a class='btn btn-primary' target="_blank" href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Videos/Congenital.mp4">WATCH</a>
+      <div class='bottom'>
+        <a class='btn btn-primary video-play' onclick='embed_video(event, "u-dO9V8QV80")'><img src="/plugins/nodebb-theme-4dflow/assets/icons/Icon_Play.png" /></a>
       </div>
     </div>
   </div>
@@ -37,8 +37,8 @@
   <div class='section'>
     <div class='box-image full-width'>
       <img src="/plugins/nodebb-theme-4dflow/assets/images/Valvular.png" />
-      <div class='center-content'>
-        <a class='btn btn-primary' target="_blank" href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Videos/Valvular.mp4">WATCH</a>
+      <div class='bottom'>
+        <a class='btn btn-primary video-play' onclick='embed_video(event, "TvL5vmaWxpk")'><img src="/plugins/nodebb-theme-4dflow/assets/icons/Icon_Play.png" /></a>
       </div>
     </div>
   </div>

@@ -4,8 +4,8 @@
   <div class='section'>
     <div class='box-image full-width'>
       <img src="/plugins/nodebb-theme-4dflow/assets/images/Neuro.png" />
-      <div class='center-content'>
-        <a class='btn btn-primary' target="_blank" href="http://arterys-website-assets.s3-website-us-east-1.amazonaws.com/4dflow/Videos/Neuro.mp4">WATCH</a>
+      <div class='bottom'>
+        <a class='btn btn-primary video-play' onclick='embed_video(event, "ntb_MHIHYQ0")'><img src="/plugins/nodebb-theme-4dflow/assets/icons/Icon_Play.png" /></a>
       </div>
     </div>
   </div>
