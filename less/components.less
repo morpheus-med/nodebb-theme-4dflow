@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 h1.section {
     font-size: @title-font-size;
     font-weight: 300;
-    height: @title-font-size + 17px;
+    min-height: @title-font-size + 17px;
     line-height: @title-font-size + 17px;
     padding-top: 0;
     padding-bottom: 0;
@@ -44,8 +44,11 @@ h2.section {
     font-weight: 300;
     margin-top: @box-margin;
     margin-bottom: 9px;
-    height: @title-font-size + 17px;
+    min-height: @title-font-size + 17px;
     line-height: @title-font-size + 17px;
+    &.multiline {
+        line-height: auto;
+    }
 }
 
 table {
