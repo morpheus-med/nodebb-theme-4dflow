@@ -93,20 +93,18 @@
   </table>
   <h2 class='section'>Step 4</h2>
   <p class='section'>
-    <span class='highlight'>Acquisition:</span> Depends on the sequence. Select the parameters depending
-    on the case. To have further information, feel free to check our forum to discuss the optimal set of
-    parameters.
+    <span class='highlight'>Acquisition:</span> Depends on the sequence. Select the parameters according
+    to the case. For more information, check the forum for parameters optimization.
   </p>
   <h2 class='section'>Step 5</h2>
   <p class='section'>
-    <span class='highlight'>Recon:</span> The images needs to be reconstructed to produce a DICOM dataset.
+    <span class='highlight'>Recon:</span> The images need to be reconstructed to produce a DICOM dataset.
   </p>
     
   <h2 class='section'>Step 6</h2>
   <p class='section'>
     <span class='highlight'>Post-processing:</span> The DICOM can be visualized and quantified using a
-    post-processing software package. The report can then be sent to PACS depending on the integration
-    with the hospital PACS.
+    post-processing software package. The report can then be sent to the hospital PACS if systems have been integrated.
   </p>
 </div>
 
