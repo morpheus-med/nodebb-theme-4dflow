@@ -66,7 +66,7 @@
   </table>
   <h2 class='section'>Step 3</h2>
   <p class='section'>
-    Blood pool agents may be used to increase SNR in cardiac cases (Note: off-label application).
+    Blood pool agents may be used to increase SNR in cardiac cases (off-label application).
     There are many available under a variety of trade names. Here are some:
   </p>
   <table class='section'>
