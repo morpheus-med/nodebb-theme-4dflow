@@ -39,7 +39,7 @@
       <div>F.A.Q.</div>
     </div>
     <div class='bottom'>
-      Questions? Learn more here
+      Learn more here
     </div>
   </a>
 </div>
