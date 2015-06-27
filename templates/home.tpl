@@ -19,7 +19,7 @@
       <div>About</div>
     </div>
     <div class='bottom'>
-      Definition of the 4D Flow
+      4D Flow Defined
     </div>
   </a>
   <a class='box-33 home-box' href="/publications">
@@ -29,7 +29,7 @@
       <div>Publications</div>
     </div>
     <div class='bottom'>
-      Read all papers about the subject
+      Read papers about the subject
     </div>
   </a>
   <a class='box-33 home-box' href="/faq">
