@@ -29,7 +29,7 @@
       <div>Publications</div>
     </div>
     <div class='bottom'>
-      Read papers about the subject
+      Papers on the subject
     </div>
   </a>
   <a class='box-33 home-box' href="/faq">
@@ -39,7 +39,7 @@
       <div>F.A.Q.</div>
     </div>
     <div class='bottom'>
-      Questions? Learn more about 4D Flow
+      Questions? Learn more here
     </div>
   </a>
 </div>
